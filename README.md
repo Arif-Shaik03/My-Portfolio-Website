@@ -3,11 +3,6 @@
 🚀 A modern, responsive, and professional portfolio website built to showcase my projects, certifications, and skills in data analytics and AI. Live at:  
 🔗 [https://portfolio-website-gray-pi.vercel.app](https://portfolio-website-gray-pi.vercel.app)
 
-## 📸 Preview
-
-![Website Screenshot](./assets/screenshot-homepage.png)
-
----
 
 ## 📌 Features
 
@@ -54,14 +49,14 @@
 - 📊 **Projects** – Data Analyst projects using Power BI, Excel, SQL, Python
 - 📜 **Certifications** – Professional credentials and online certificates
 - 📁 **Resume** – Downloadable resume PDF
-- 📬 **Contact** – Simple email link using `mailto:youremail@example.com`
+- 📬 **Contact** – Simple email link using `mailto:skmohammedarif19@gmail.com`
 
 ---
 
 ## 📧 Contact
 
 If you’d like to connect, feel free to reach out at:  
-📮 **[yourname@example.com](mailto:yourname@example.com)**
+📮 **[yourname@example.com](mailto:skmohammedarif19@gmail.com)**
 
 ---
 

@@ -56,7 +56,7 @@
 ## 📧 Contact
 
 If you’d like to connect, feel free to reach out at:  
-📮 **[yourname@example.com](mailto:skmohammedarif19@gmail.com)**
+📮 **[skmohammedarif19@gmail.com](mailto:skmohammedarif19@gmail.com)**
 
 ---
 
